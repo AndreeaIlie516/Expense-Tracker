@@ -1,5 +1,7 @@
 # Expense-Tracker
 ## The Expense Tracker is a program created for helping people tracking their personal expenses
+ 
+#### Each expense has a `day` (integer between 1 and 30), `amount` of money (positive integer) and expense `type` (string). 
 
 ### The functionalities of the program are exemplified below:
 1. Add an expense. Expense data is read from the console.
